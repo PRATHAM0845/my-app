@@ -1,4 +1,6 @@
-x = 5
-y = 3
-
-print(x + y)
+number =int(input("enter a number"))
+if number%2 == 0:
+    print("Even")
+else:
+    print("odd")
+   
