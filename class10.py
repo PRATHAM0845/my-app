@@ -62,10 +62,10 @@
 
 
 
-# for i in range(20):  
-#     if 1 <= i <= 13:  
-#         print(i)
+for i in range(20):  
+    if 1 <= i <= 13:  
+        print(i)
 
-for i in range(20):
- if 1 <= i <=20 and i !=12 and i !=17:
-             print(i)
+# for i in range(20):
+#  if 1 <= i <=20 and i !=12 and i !=17:
+#              print(i)
